@@ -1,0 +1,10 @@
+.search-bar {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  
+    input, select {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+}
