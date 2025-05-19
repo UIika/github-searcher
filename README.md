@@ -2,7 +2,7 @@
 
 A fullstack web app to search GitHub users or repositories with caching and a clean React frontend.
 
-**Deployed on AWS EC2 instance - http://3.66.166.166/**
+**Deployed on AWS EC2 instance - http://18.184.64.217/**
 
 ## Tech Stack and Design Decisions
 
